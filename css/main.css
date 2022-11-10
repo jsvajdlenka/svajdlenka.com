@@ -1,0 +1,20 @@
+body::before {
+    display: block;
+    content: '';
+    height: 50px;
+}
+
+.carousel-caption {
+    background-color: #999 !important;
+    background-color: rgba(70,70,70,.25) !important;
+}
+
+.carousel-control-prev-icon {
+    background-color: #999 !important;
+    background-color: rgba(70,70,70,.25) !important;
+}
+
+.carousel-control-next-icon {
+    background-color: #999 !important;
+    background-color: rgba(70,70,70,.25) !important;
+}
