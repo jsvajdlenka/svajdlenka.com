@@ -2,12 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="497c6e6a-5428-4c0d-bad9-1151d73927d5" name="ftp.svajdlenka.com - test" url="http://fsvajdlenka.com">
-        <fileTransfer rootFolder="/svajdlenka.com/test" host="ftp.svajdlenka.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
+      <webServer id="497c6e6a-5428-4c0d-bad9-1151d73927d5" name="ftp.svajdlenka.com - test" url="http://test.svajdlenka.com">
+        <fileTransfer rootFolder="/svajdlenka.com/test" host="ftp.svajdlenka.com" port="21" />
+      </webServer>
+      <webServer id="9712d671-7e39-461f-a289-4dcfd89dc4ed" name="localhost - xamp" url="http://localhost/svajdlenka">
+        <fileTransfer mountedRoot="C:\Users\svajd\Programs\Xamp\htdocs\svajdlenka.com" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
