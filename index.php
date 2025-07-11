@@ -49,6 +49,8 @@
             "2020-Slovakia",
             "2021-Denmark",
             "2022-Netherland",
+            "2023-Finland",
+            "2024-Montenegro",
     ];
 
 
@@ -171,7 +173,7 @@
                     <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
                 </p>
 
-                <a href="#" class="btn btn-light mt-3">
+                <a href="https://richard.svajdlenka.com" class="btn btn-light mt-3">
                     <i class="bi bi-chevron-right"></i> Read More
                 </a>
             </div>
@@ -279,13 +281,13 @@
                     <?php echo $langArray['juraj-desc']; ?>
                 </p>
                 <p>
-                    <a href="#"><i class="bi bi-twitter text-dark mx-1"></i></a>
-                    <a href="#"><i class="bi bi-facebook text-dark mx-1"></i></a>
-                    <a href="#"><i class="bi bi-linkedin text-dark mx-1"></i></a>
-                    <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
+                    <a href="https://x.com/svajdlenka"><i class="bi bi-twitter text-dark mx-1"></i></a>
+                    <a href="https://www.facebook.com/svajdlenka/"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                    <a href="https://www.linkedin.com/in/jurajsvajdlenka/"><i class="bi bi-linkedin text-dark mx-1"></i></a>
+                    <a href="https://www.instagram.com/juraj.sv/"><i class="bi bi-instagram text-dark mx-1"></i></a>
                 </p>
 
-                <a href="#" class="btn btn-light mt-3">
+                <a href="https://juraj.svajdlenka.com/?langID=<?php echo $lang; ?>" class="btn btn-light mt-3">
                     <i class="bi bi-chevron-right"></i> Read More
                 </a>
             </div>
@@ -296,6 +298,8 @@
 <!-- Images -->
 <section id="sec-images" class="p-5 bg-dark text-light">
     <div id="yearsCarousel" class="carousel slide carousel-fade col-lg-9 mx-auto" data-bs-ride="carousel">
+        <h1><?php echo $langArray['images-title']; ?></h1>
+        <hr>
         <div class="carousel-indicators">
 <?php foreach ($photosArray as $index => $label) { ?>
     <?php if ($index == 0) { ?>

@@ -11,7 +11,7 @@ $langArray = array(
 
     "richard-lead" => "Študent, Umelec, Najstarší hráč",
     "robert-lead" => "Študent, Diplomat, Chovateľ, Stredný hráč",
-    "patrik-lead" => "Žiak, Najmladší hráč",
+    "patrik-lead" => "Žiak, Spevák, Futbalista, Najmladší hráč",
     "angelika-lead" => "Mama, Pekárka, Kreatívna duša",
     "juraj-lead" => "Otec, Stolár, Vývojár",
 
@@ -19,8 +19,9 @@ $langArray = array(
     "robert-desc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium illum itaque necessitatibus nemo perferendis, placeat possimus reprehenderit sapiente sequi?",
     "patrik-desc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium illum itaque necessitatibus nemo perferendis, placeat possimus reprehenderit sapiente sequi?",
     "angelika-desc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium illum itaque necessitatibus nemo perferendis, placeat possimus reprehenderit sapiente sequi?",
-    "juraj-desc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium illum itaque necessitatibus nemo perferendis, placeat possimus reprehenderit sapiente sequi?",
+    "juraj-desc" => "Môj život nabral nový smer, keď som namiesto motorky kúpil počítač Atari 800 XL. S počítačom som strávil veľa času a určil moje životné smerovanie do vôd IT. Po svadbe a narodení mojich synov som začal svoj čas deliť medzi rodinu a počítače. Po kúpe rodinného domu som zistil že dokážem fungovať ako farmár amatér. Navyše spolu s domom som získal dielňu, kde tiež rád trávim svoj čas. Okrem toho mám rád cestovanie, dobrú hudbu a dobré jedlo.",
 
+    "images-title" => "Náš život na fotografiách",
     "2000-Croatia-header" => "2000",
     "2000-Family-header" => "2000",
     "2001-Wedding-header" => "2001",
@@ -53,6 +54,8 @@ $langArray = array(
     "2020-Slovakia-header" => "2020",
     "2021-Denmark-header" => "2021",
     "2022-Netherland-header" => "2022",
+    "2023-Finland-header" => "2023",
+    "2024-Montenegro-header" => "2024",
 
     "2000-Croatia-desc" => "Croatia - Vodice",
     "2000-Family-desc" => "Families meeting",
@@ -65,7 +68,7 @@ $langArray = array(
     "2004-Caverns-desc" => "Caverns of Slovakia",
     "2005-Austria-desc" => "Biking - Austria",
     "2006-Tunisia-desc" => "Tunisia",
-    "2006-Robert-desc" => "Birt of Robert",
+    "2006-Robert-desc" => "Birth of Robert",
     "2007-Croatia-desc" => "Croatia - Omis",
     "2008-Egypt-desc" => "Egypt",
     "2009-Benelux-desc" => "Benelux",
@@ -86,6 +89,8 @@ $langArray = array(
     "2020-Slovakia-desc" => "Slovakia",
     "2021-Denmark-desc" => "Denmark",
     "2022-Netherland-desc" => "Netherland",
+    "2023-Finland-desc" => "Finland",
+    "2024-Montenegro-desc" => "Montenegro",
 
 
 );
